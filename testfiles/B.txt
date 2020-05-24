@@ -1,0 +1,2 @@
+B.txt
+ich bin B und verlinke link:Pinguine.txt niemanden, außer link:A.txt link:C.txt und link:D.txt
